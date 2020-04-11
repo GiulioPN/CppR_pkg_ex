@@ -1,0 +1,4 @@
+useDynLib(MyPKG)
+
+export(solver.fit)
+

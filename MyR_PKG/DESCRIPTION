@@ -1,0 +1,9 @@
+Package: MyPKG
+Version: 0.1
+Date: 2020-04-11
+Title: MyPKG 
+Description: A simple R pkg with one external function "solver.fit"
+License: GPL (>= 2)
+NeedsCompilation: yes
+LazyData: yes
+Packaged: 2018-11-14 17:02:35 UTC
