@@ -10,6 +10,7 @@ In the `Rscript/` folder there is the call to the R function that call C++ files
 
 - ```$ R CMD remove MyPKG```
 
+
 #### File Descrpition 
 
 * `/R/solverFIT.R` here it is definited the external R function called ```solver.fit()```
@@ -17,6 +18,7 @@ In the `Rscript/` folder there is the call to the R function that call C++ files
 
 * `/src/Makevars` makefile where we can definie the library
 * `/src/.cpp` file dove viene definito la funzione ggm_ma
+
 
 #### Functions Descrpition 
 * `solver.fit()` the R function called in the Rscript/test.R script
